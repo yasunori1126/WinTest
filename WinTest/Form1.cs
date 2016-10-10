@@ -23,6 +23,7 @@ namespace WinTest
             MessageBox.Show("BBBBB");
             MessageBox.Show("CCCCC");
             MessageBox.Show("DDDDD");
+            MessageBox.Show("EEEEE");
         }
     }
 }
