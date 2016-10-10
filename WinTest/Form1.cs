@@ -21,7 +21,7 @@ namespace WinTest
         {
             MessageBox.Show("AAAAA");
             MessageBox.Show("BBBBB");
-            MessageBox.Show("BBBBB");
+            MessageBox.Show("CCCCC");
         }
     }
 }
